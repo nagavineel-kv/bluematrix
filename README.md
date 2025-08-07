@@ -1,18 +1,27 @@
-###### Blue Matrix
+# 🔷 Blue Matrix
 
-Blue Matrix is a complete Project Management Dashboard built with modern full-stack technologies and AWS services. The frontend uses Next.js, Tailwind CSS, and Material UI Data Grid for a responsive, dynamic UI. Redux Toolkit and RTK Query are used for state management and efficient data fetching. The backend is powered by Node.js, Express, and PostgreSQL with Prisma ORM for database handling and PgAdmin for monitoring. The application also integrates AWS Lambda for serverless functions and AWS Cognito for secure user authentication.
+**Blue Matrix** is a comprehensive **Project Management Dashboard** built with cutting-edge full-stack technologies and AWS services. The frontend is developed using **Next.js**, **Tailwind CSS**, and **Material UI Data Grid** to deliver a responsive and dynamic user experience. State management and data fetching are handled efficiently using **Redux Toolkit** and **RTK Query**.
 
-./assets/images/result/1.png
-./assets/images/result/2.png
-./assets/images/result/3.png
-./assets/images/result/4.png
-./assets/images/result/5.png
-./assets/images/result/6.png
-./assets/images/result/7.png
-./assets/images/result/8.png
-./assets/images/result/9.png
-./assets/images/result/10.png
-./assets/images/result/11.png
-./assets/images/result/12.png
-./assets/images/result/13.png
-./assets/images/result/14.png
+The backend leverages **Node.js**, **Express**, and **PostgreSQL**, with **Prisma ORM** ensuring seamless database interaction and **PgAdmin** for database monitoring. The application is cloud-ready, integrating **AWS Lambda** for scalable serverless functions and **AWS Cognito** for secure and reliable user authentication.
+
+---
+
+## 📸 Screenshots
+
+![Screenshot 1](./assets/images/result/1.png)
+![Screenshot 2](./assets/images/result/2.png)
+![Screenshot 3](./assets/images/result/3.png)
+![Screenshot 4](./assets/images/result/4.png)
+![Screenshot 5](./assets/images/result/5.png)
+![Screenshot 6](./assets/images/result/6.png)
+![Screenshot 7](./assets/images/result/7.png)
+![Screenshot 8](./assets/images/result/8.png)
+![Screenshot 9](./assets/images/result/9.png)
+![Screenshot 10](./assets/images/result/10.png)
+![Screenshot 11](./assets/images/result/11.png)
+![Screenshot 12](./assets/images/result/12.png)
+![Screenshot 13](./assets/images/result/13.png)
+![Screenshot 14](./assets/images/result/14.png)
+
+---
+
